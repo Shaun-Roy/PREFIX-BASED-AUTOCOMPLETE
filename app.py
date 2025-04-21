@@ -10,7 +10,7 @@ app = Flask(__name__)
 DB_PATH = 'autocomplete.db'
 
 # Setup Mistral API
-api_key = "Tn5ahSRN2cPMNsfksojCI387KH9UNgFR"
+api_key = "ENTER API KEY HERE"
 model = "mistral-large-latest"
 client = Mistral(api_key=api_key)
 
