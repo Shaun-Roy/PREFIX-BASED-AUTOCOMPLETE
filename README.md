@@ -12,7 +12,6 @@ The heart of our project is the flask API. When the user types something in our 
 
 
 ## STEPS INVOLVED
-To preprocess our data we:
 
 
 1 Chose a .txt file
