@@ -10,6 +10,11 @@ The heart of our project is the flask API. When the user types something in our 
 
 ![ DIAGRAM ](https://github.com/Shaun-Roy/PREFIX-BASED-AUTOCOMPLETE/blob/main/screenshots%20for%20readme/Screenshot%202025-04-23%20141327.png)
 
+![ DIAGRAM ](https://github.com/Shaun-Roy/PREFIX-BASED-AUTOCOMPLETE/blob/main/screenshots%20for%20readme/Screenshot%202025-04-23%20144706.png)
+
+## DEMO
+
+![ DIAGRAM ](https://github.com/Shaun-Roy/PREFIX-BASED-AUTOCOMPLETE/blob/main/screenshots%20for%20readme/Screenshot%202025-04-23%20145026.png)
 
 ## STEPS INVOLVED
 
